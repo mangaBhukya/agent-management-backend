@@ -44,5 +44,3 @@ Create a .env file in the root directory and add the following:
 Ensure your CSV file follows this format:
 
 FirstName,Phone,Notes
-- Ravi,1234567890,Important client
-- Sai,9876543210,Follow-up required
