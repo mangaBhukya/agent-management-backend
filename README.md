@@ -44,3 +44,5 @@ Create a .env file in the root directory and add the following:
 Ensure your CSV file follows this format:
 
 FirstName,Phone,Notes
+
+Frontend GitHub Link : https://github.com/mangaBhukya/agent-management-frontend
